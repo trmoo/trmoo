@@ -23,7 +23,7 @@ const bool CHANGE = true; // Change is the only constant
 | 영역 | 앱 |
 |---|---|
 | 💻 컴퓨팅 시스템 | [정보 노트 실습실](https://trmoo.github.io/informatics_trmoo/) · [컴맹 탈출](https://trmoo.github.io/commeng/) · [노트북 고르기](https://trmoo.github.io/computer-spec/) · [피지컬 컴퓨팅 준비실](https://trmoo.github.io/physical_ideation/) |
-| 📊 데이터 | [10진수 ↔ 2진수 변환기](https://trmoo.github.io/binary-converter/) · [연관 분석 연습장](https://trmoo.github.io/association-analysis/) · [API 실습실](https://trmoo.github.io/api-practice/) · [펭귄 데이터 전처리](https://trmoo.github.io/penguins_analysis/) · [PyDataset 도감](https://trmoo.github.io/pydataset-catalog/) · [Seaborn 도감](https://trmoo.github.io/seaborn-catalog/) |
+| 📊 데이터 | [10진수 ↔ 2진수 변환기](https://trmoo.github.io/binary-converter/) · [연관 분석 연습장](https://trmoo.github.io/association-analysis/) · [API 실습실](https://trmoo.github.io/api-practice/) · [판다스 실습실](https://trmoo.github.io/pandas_study/) · [펭귄 데이터 전처리](https://trmoo.github.io/penguins_analysis/) · [다이아몬드 EDA 연습](https://trmoo.github.io/diamonds_ds_performance_pract/) · [PyDataset 도감](https://trmoo.github.io/pydataset-catalog/) · [Seaborn 도감](https://trmoo.github.io/seaborn-catalog/) |
 | 🧩 알고리즘과 프로그래밍 | [나만의 클래스 설계실](https://trmoo.github.io/object-oriented/) · [앱스 스크립트 웹앱 실습](https://trmoo.github.io/apps_script_pract/) |
 | 🤖 인공지능 | [인공지능 기초 실습실](https://trmoo.github.io/aiBasics_trmoo/) · [머신러닝 실험실](https://trmoo.github.io/ml-lab/) · [LLM·RAG 실습실](https://trmoo.github.io/llm-rag-lab/) |
 | 🔐 디지털 문화 | [내 계정 지킴이](https://trmoo.github.io/privacy_account_pw/) |
