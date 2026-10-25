@@ -31,6 +31,7 @@ const bool CHANGE = true; // Change is the only constant
 | 🏫 교실·진로 | [랜덤 자리 뽑기](https://trmoo.github.io/class-seats/) · [전국 학과 지도](https://trmoo.github.io/major-map/) |
 
 ### 🏅 자격 · 수상 · 표창
+- 경기도교육청 교사 석사학위과정 지원 대상자 선발 (2026)
 - AICE Associate 공인자격 (2026)
 - 디지털 교육 활성화 유공 교육감 표창 (2025)
 - 대학수학능력시험 운영 지원 유공 교육장 표창 (2025)
