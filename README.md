@@ -8,6 +8,7 @@ const bool CHANGE = true; // Change is the only constant
 
 <p align="left">
   <a href="https://blog.naver.com/trmoo" target="_blank"><img src="https://img.shields.io/badge/Blog-빛이%20가득한%20하루-03C75A?style=flat-square&logo=naver&logoColor=white" alt="네이버 블로그" /></a>
+  <a href="https://www.facebook.com/profile.php?id=100006732647527" target="_blank"><img src="https://img.shields.io/badge/Facebook-티쳐무-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="페이스북" /></a>
   <a href="https://trmoo.github.io/comedu_portal/" target="_blank"><img src="https://img.shields.io/badge/Portal-정보%20수업%20도구함-1F6FEB?style=flat-square&logo=githubpages&logoColor=white" alt="정보 수업 도구함" /></a>
 </p>
 
