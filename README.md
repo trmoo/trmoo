@@ -28,7 +28,7 @@ const bool CHANGE = true; // Change is the only constant
 | 🧩 알고리즘과 프로그래밍 | [나만의 클래스 설계실](https://trmoo.github.io/object-oriented/) · [앱스 스크립트 웹앱 실습](https://trmoo.github.io/apps_script_pract/) |
 | 🤖 인공지능 | [인공지능 기초 실습실](https://trmoo.github.io/aiBasics_trmoo/) · [머신러닝 실험실](https://trmoo.github.io/ml-lab/) · [LLM·RAG 실습실](https://trmoo.github.io/llm-rag-lab/) |
 | 🔐 디지털 문화 | [내 계정 지킴이](https://trmoo.github.io/privacy_account_pw/) |
-| 📚 웹 교과서 | [프로그래밍](https://trmoo.github.io/22hs-programming/) · [인공지능 기초](https://trmoo.github.io/22hs-ai/) · [데이터 과학](https://trmoo.github.io/22hs-ds/) |
+| 📚 웹 교과서 | [프로그래밍](https://trmoo.github.io/22hs-programming/) · [인공지능 기초](https://trmoo.github.io/22hs-ai/) · [데이터 과학](https://trmoo.github.io/22hs-ds/) · [소프트웨어와 생활](https://trmoo.github.io/22sw-life/) |
 | 🏫 교실·진로 | [랜덤 자리 뽑기](https://trmoo.github.io/class-seats/) · [전국 학과 지도](https://trmoo.github.io/major-map/) |
 
 ### 🏅 자격 · 수상 · 표창
