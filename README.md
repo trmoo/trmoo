@@ -30,6 +30,9 @@ const bool CHANGE = true; // Change is the only constant
 | 🔐 디지털 문화 | [내 계정 지킴이](https://trmoo.github.io/privacy_account_pw/) |
 | 📚 웹 교과서 | [프로그래밍](https://trmoo.github.io/22hs-programming/) · [인공지능 기초](https://trmoo.github.io/22hs-ai/) · [데이터 과학](https://trmoo.github.io/22hs-ds/) · [소프트웨어와 생활](https://trmoo.github.io/22sw-life/) |
 | 🏫 교실·진로 | [랜덤 자리 뽑기](https://trmoo.github.io/class-seats/) · [전국 학과 지도](https://trmoo.github.io/major-map/) |
+| 📝 제출형 활동지 <sub>체험판</sub> | [공공데이터 수집 기록장](https://trmoo.github.io/open-data/) · [검색어 트렌드 분석하기](https://trmoo.github.io/trend_bigdata/) · [SW 개발 아이디어 제안하기](https://trmoo.github.io/sw-idea/) · [자료구조 실습실](https://trmoo.github.io/data_structure_basics/) · [부숴봐! 자판기 1·2차시](https://trmoo.github.io/exception-basics/) · [부숴봐! 자판기 3차시(raise)](https://trmoo.github.io/exception-raise/) · [광고비와 매출의 관계(회귀 1차시)](https://trmoo.github.io/statistical-regression/) · [광고비와 매출 예측(회귀 2차시)](https://trmoo.github.io/ml-regression/) · [데이터 과학 영향력 탐구](https://trmoo.github.io/data_science_career/) · [꿈누리 출판](https://trmoo.github.io/mini-book-fair/) |
+
+📝 제출형 활동지는 학생 답이 선생님의 구글 시트에 쌓이는 앱스 스크립트 웹앱입니다. 위 링크는 **아무것도 저장되지 않는 체험판**이고, 수업에 쓰시려면 [도구함](https://trmoo.github.io/comedu_portal/)에서 **교사용 사본**을 만들어 쓰시면 됩니다.
 
 ### 🏅 자격 · 수상 · 표창
 - 경기도교육청 교사 석사학위과정 지원 대상자 선발 (2026)
